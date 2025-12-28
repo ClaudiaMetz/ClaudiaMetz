@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./Assets/Claudia Metz.png" alt="Header Claudia Metz" width="600">
+  <img src="./Assets/Claudia Metz.png" alt="Header Claudia Metz" width="700">
 </p>
 <br>
+
 ### 🎓 Formación y Enfoque
 
 - **Técnica Superior en Ciencia de Datos e IA** | Estudiante de Licenciatura en Datos.
