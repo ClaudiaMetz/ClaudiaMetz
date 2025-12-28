@@ -3,6 +3,8 @@
 </p>
 <br>
 
+---
+
 ### 🎓 Formación y Enfoque
 
 - **Técnica Superior en Ciencia de Datos e IA** | Estudiante de Licenciatura en Datos.
@@ -20,6 +22,8 @@ Estoy migrando mi proyecto final (grupal) de carrera hacia un flujo de trabajo p
 - **Lenguajes:** Python, SQL.
 - **ML/DL:** TensorFlow, OpenCV, Keras.
 - **MLOps & Cloud:** Docker, Vertex AI, Google Cloud Platform.
+
+🎨 Background: Diseño Gráfico & Desarrollo Web Frontend.
 
 ---
 
