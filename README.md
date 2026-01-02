@@ -7,7 +7,7 @@
 
 ### 🎓 Formación y Enfoque
 
-- **Técnica Superior en Ciencia de Datos e IA** | Estudiante de la Licenciatura en Datos y la de TEcnologías Digitales.
+- **Técnica Superior en Ciencia de Datos e IA** | Estudiante de la Licenciatura en Datos y la de Tecnologías Digitales.
 - 🛠️ **Mi objetivo actual:** Evolucionar un proyecto de ML/DL desde la fase de investigación (TP académico) hacia entornos de producción reales (**MLOps**).
 
 ### 🚀 Proyecto Destacado: "Ponele Música a tus Emociones"
