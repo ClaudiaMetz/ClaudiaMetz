@@ -12,16 +12,15 @@
 
 ### 🚀 Proyecto Destacado: "Ponele Música a tus Emociones"
 
-Estoy migrando mi proyecto final (grupal) de carrera hacia un flujo de trabajo profesional:
+Estoy refundando mi proyecto final de la Tecnicatura hacia un ecosistema profesional e industrializado de MLOps:
+* **Fase 1 (Histórica):** Investigación inicial con FER2013 y despliegue temprano en la nube con TensorFlow (preservado en `emotion-music-training` y `emotion-music-mlops-v.1.xx`).
+* **Fase 2 (Actual):** Reingeniería total orientada a la reproducibilidad absoluta y data governance, utilizando RAF-DB, control de azar estricto y analítica interactiva (`emotion-music-mlops-v.2.xx`).
 
-- [**emotion-music-training**](https://github.com/ClaudiaMetz/emotion-music-training): Fase de investigación, entrenamiento de DenseNet y experimentación en notebooks.
-- [**emotion-music-mlops**](https://github.com/ClaudiaMetz/emotion-music-mlops): (En desarrollo) Dockerización, servicio de inferencia con FastAPI y despliegue en **Vertex AI (GCP)**.
+🐍 Tech Stack Actualizado
 
-### 🐍 Tech Stack
-
-- **Lenguajes:** Python, SQL.
-- **ML/DL:** TensorFlow, OpenCV, Keras.
-- **MLOps & Cloud:** Docker, Vertex AI, Google Cloud Platform.
+* **Lenguajes:** Python, SQL.
+* **Deep Learning & Data:** PyTorch, Torchvision, Scikit-Learn, Imbalanced-Learn.
+* **Visualización & MLOps:** Plotly, Docker, GitHub Actions.
 
 🎨 Background: Diseño Gráfico & Desarrollo Web Frontend.
 
