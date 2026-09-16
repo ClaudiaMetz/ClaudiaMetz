@@ -5,7 +5,6 @@
 
 ---
 
-```markdown
 **Datos · Tecnología · IA · Innovación · Criterio**
 
 Técnica Superior en Ciencia de Datos e IA, actualmente cursando las Licenciaturas en **Ciencia de Datos** y **Tecnologías Digitales**.
