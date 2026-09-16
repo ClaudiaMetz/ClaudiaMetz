@@ -86,8 +86,6 @@ Esa combinación sigue formando parte de mi manera de trabajar: entender el prob
 ---
 
 > **La tecnología genera valor cuando está alineada con el problema que intenta resolver.**
-```
-
 
 ---
 
